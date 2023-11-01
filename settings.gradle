@@ -1,0 +1,7 @@
+rootProject.name = 'Gredle_build1.1'
+include 'db'
+include 'service'
+include 'api'
+include 'db'
+include 'service'
+
